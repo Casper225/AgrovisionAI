@@ -1,0 +1,4 @@
+venv/
+dataset_plantvillage/
+*.pyc
+__pycache__/
