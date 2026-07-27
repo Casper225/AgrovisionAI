@@ -4,8 +4,8 @@ Classificateur d'images pour détecter les maladies des plantes basé sur le dat
 
 ## 📋 Prérequis
 
-- Python 3.8+
-- Fichier modèle: `agrovision_model.h5`
+- Python 3.12
+- Fichier modèle: `agrovision_model.keras`
 
 ## 🚀 Installation Locale
 
