@@ -158,7 +158,7 @@ Loss: Categorical Crossentropy
 
 ## 📧 Support
 
-Pour toute question: `lovibenedite@gmail.com`
+Pour toute question: `kouakouericlionel@gmail.com`
 
 ## 📄 License
 
